@@ -12,5 +12,8 @@ cool links about random stuff i'm reading
 - Password Hashing Competition - https://www.password-hashing.net/
 - White Paper - https://github.com/P-H-C/phc-winner-argon2/blob/master/argon2-specs.pdf
 
+## Math
+- Elliptic Curve Cryptography: a gentle introduction - https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
+
 ## Post-Quantum
 - Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
