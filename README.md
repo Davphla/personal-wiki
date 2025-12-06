@@ -8,7 +8,6 @@ cool links about random stuff i'm reading
 - Ethereum layer 2 guide - https://www.risein.com/blog/ultimate-layer-2-guide-from-l1s-to-l2s
 
 # Cryptography
-
 ## Algorithm
 ### Argon2
 - Password Hashing Competition - https://www.password-hashing.net/
@@ -21,6 +20,5 @@ cool links about random stuff i'm reading
 - Signal Protocol and Post-Quantum Ratchets - https://signal.org/blog/spqr/
 
 # Programming
-
-## Good practices
+## Good practice
 - Linux kernel coding style - https://www.kernel.org/doc/html/v4.10/process/coding-style.html
