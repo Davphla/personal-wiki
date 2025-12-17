@@ -92,7 +92,7 @@ FOSS I'm using in my daily life.
 *Empty*
 
 ## Self-host 
-- Immich - Photo album - https://github.com/immich-app/immich
+- Photo album (Immich) - https://github.com/immich-app/immich
 
 # My Gear
 ## Everyday carry (EDC)
