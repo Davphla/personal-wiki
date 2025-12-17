@@ -52,8 +52,9 @@ Channel ordered by languages, then preferences.
 - 🇫🇷 V2F - https://www.youtube.com/@V2F
 - 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w
 
-## 📌 Travel
+## 📌 Travel / World documentaries
 - Drew Binsky - https://www.youtube.com/@drewbinsky
+- Ruhi Cenet Documentaries - https://www.youtube.com/@ruhicenetdocs
 - Little Chinese Everywhere - https://www.youtube.com/@littlechineseeverywhere
 - Joe Fazer - https://www.youtube.com/@JoeFazer
 
