@@ -97,6 +97,7 @@ FOSS I'm using in my daily life.
 # My Gear
 ## Everyday carry (EDC)
 - Camera bag (Thule Covert DSLR backpack 32L) - https://www.thule.com/en-us/backpacks/camera-backpacks-bags/thule-covert-dslr-backpack-32l-_-3205344
+- E-Ink reader (Boox palma 2) - https://shop.boox.com/products/palma2
 - Headset (Sony WH-1000XM4) - https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-b
 
 ## Tech Gear
