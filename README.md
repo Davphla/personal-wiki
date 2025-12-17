@@ -41,3 +41,4 @@ cool links about random stuff i'm learning
 ## Tech popularization
 - V2F - https://www.youtube.com/@V2F
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown
+- Low Level - https://www.youtube.com/@LowLevelTV
