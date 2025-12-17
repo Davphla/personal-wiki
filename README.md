@@ -3,7 +3,7 @@ cool links about random stuff i'm learning
 
 TODO: add a github pages to have a cool looking wiki
 
-# Links
+# Documentation
 ## Blockchain
 ### Gno.land
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
