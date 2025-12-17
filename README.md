@@ -43,8 +43,38 @@ TODO:
 - 🇫🇷 Comment la NASA code sans bug - https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4 - V2F 
 
 # Youtube channels
-## Tech popularization
+Channel ordered by languages, then preferences.
+
+## 📌 Tech popularization
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown
 - Low Level - https://www.youtube.com/@LowLevelTV
+- 🇫🇷 Micode - https://www.youtube.com/@Micode
 - 🇫🇷 V2F - https://www.youtube.com/@V2F
 - 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w
+
+## 📌 Travel
+- Drew Binsky - https://www.youtube.com/@drewbinsky
+- Little Chinese Everywhere - https://www.youtube.com/@littlechineseeverywhere
+- Joe Fazer - https://www.youtube.com/@JoeFazer
+
+## 📌 Journalist
+- 🇫🇷 Charles Villa - https://www.youtube.com/@CharlesVilla
+
+## 📌 Geopolitical / History
+- h0ser - https://www.youtube.com/@h0ser
+- OverSimplified - https://www.youtube.com/@OverSimplified
+- Johnny Harris - https://www.youtube.com/@johnnyharris
+- fern - https://www.youtube.com/@fern-tv
+- neo - https://www.youtube.com/@neoexplains/videos
+
+## Entrepreneurship
+- 🇫🇷 Fuzay² - https://www.youtube.com/@FuzayAuCarre
+
+## Engineer popularization
+- Mark Rober - https://www.youtube.com/@MarkRober
+- HTX Studio - https://www.youtube.com/@HTXStudio
+
+## Podcast
+- 🇫🇷 Underscore_ - https://www.youtube.com/@Underscore_
+- 🇫🇷 LEGEND - https://www.youtube.com/@legendmedia
+
