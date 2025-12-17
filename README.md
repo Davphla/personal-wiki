@@ -42,7 +42,7 @@ add short description for youtube channel
 
 # Youtube channels
 ## Tech popularization
-- 🇫🇷 V2F - https://www.youtube.com/@V2F
-- 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w
 - 3Blue1Brown - https://www.youtube.com/@3blue1brown
 - Low Level - https://www.youtube.com/@LowLevelTV
+- 🇫🇷 V2F - https://www.youtube.com/@V2F
+- 🇫🇷 overfl0w - https://www.youtube.com/@overfl-0-w
